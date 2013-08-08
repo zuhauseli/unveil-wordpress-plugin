@@ -47,7 +47,7 @@ Das _Unveil WordPress-Plugin_ sollte mit jedem WordPress-konformen Theme fehlerf
 ### Häufige Fragen
 
 *Wie stelle ich sicher, dass das _Unveil WordPress-Plugin_ funktioniert?*<br />
-In Entwickler-Tools des Browsers (Reiter _Netzwerk_ o.ä.) erkennt man wunderbar, dass Bilder erst beim Scrollen geladen werden.
+In Entwickler-Tools des Browsers (Reiter _Netzwerk_ o.ä.) erkennt man wunderbar, dass Bilder erst beim Scrollen geladen werden. Siehe dazu auch das [Video](http://www.youtube.com/watch?v=tMv5tl3Q4Aw) mit dem Ladevorgang.
 
 
 
