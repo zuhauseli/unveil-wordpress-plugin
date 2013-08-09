@@ -6,7 +6,7 @@ Nach der Inbetriebnahme des Plugins für WordPress laden Blogseiten deutlich sch
 
 
 ### Video
-Darstellung der Funktionsweise des Plugins [auf YouTube](http://www.youtube.com/watch?v=tMv5tl3Q4Aw).
+Darstellung der Funktionsweise des Plugins [auf YouTube](http://www.youtube.com/watch?v=tMv5tl3Q4Aw). Beim Scrollen der Webseite (Fenster oben) werden Bilder automatisch geladen. Im unteren Fenster (Entwickler-Tools) werden entsprechend stattgefundene Requests abgebildet.
 
 
 ### Vorteile
